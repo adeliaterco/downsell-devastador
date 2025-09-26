@@ -430,7 +430,7 @@ export default function DownsellPage() {
 
           <div className="text-center">
             <a
-              href="https://comprarplanseguro.shop/dw/"
+              href="app.plansistema.shop"
               className="text-muted-foreground hover:text-foreground transition-colors underline text-sm md:text-base"
             >
               No gracias, prefiero usar solo el Plan A (y arriesgar 11 días extra)
