@@ -409,7 +409,7 @@ export default function DownsellPage() {
             size="lg"
             className="gradient-success text-success-foreground text-xl md:text-2xl lg:text-3xl font-black px-8 md:px-12 py-6 md:py-8 rounded-2xl hover:scale-105 transition-all animate-shine mb-8 w-full max-w-2xl mx-auto block"
           >
-            <a href="https://pay.hotmart.com/D100233207O?off=r4cz8pgu">
+            <a href="https://pay.hotmart.com/D100233207O?off=jehejcui">
               🔥 SÍ, QUIERO EL PROTOCOLO POR $9
               <div className="text-base md:text-lg font-semibold mt-2">
                 Última oportunidad - Solo $9 (96% descuento)
